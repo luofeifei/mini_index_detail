@@ -1,0 +1,6 @@
+<!--stock.wxml-->
+<view class="title">
+	<text>实时交易信息</text>
+</view>
+<canvas style="width:100%;height:200px;border:1px solid #ccc;" canvas-id="lineCanvas">
+</canvas>

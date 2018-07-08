@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/stock/stock",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#4abb3b",
+    "navigationBarTitleText": "数学建模",
+    "backgroundColor": "#f8f8f8",
+    "navigationBarTextStyle":"white"
+  },
+  "debug": true
+}
